@@ -46,6 +46,14 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    padding: 16,
+  marginTop: 16,
+  borderColor: '#bbb',
+  borderWidth: 1,
+  borderStyle: 'dashed',
+  borderRadius: 10,
+  alignItems: 'center',
+  
   },t:{
     textDecorationLine:"line-through"
   },f:{
