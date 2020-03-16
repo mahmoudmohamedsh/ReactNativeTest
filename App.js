@@ -29,7 +29,7 @@ export default function App() {
         </TouchableOpacity>
         <TouchableOpacity style={{ flexDirection: 'row',flex:1 }}>
             <Text style={{ flexShrink: 1 }}>
-                "Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text..."
+                " test Sh8al Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text...Really really long text..."
             </Text>
         </TouchableOpacity>
             
